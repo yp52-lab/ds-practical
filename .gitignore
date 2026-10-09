@@ -1,0 +1,31 @@
+# Data files
+*.csv
+*.zip
+*.rar
+*.tar.gz
+Logs/
+cicids2017/
+rar/
+ui_uploads/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+models/
+
+# Node
+node_modules/
+logsentinel-ui/node_modules/
+
+# Logs
+*.log
+
+# Misc
+.DS_Store
